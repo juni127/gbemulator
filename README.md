@@ -1,2 +1,2 @@
-# gbemulator
+# GBE
 Gameboy Emulator in C.
